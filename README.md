@@ -14,7 +14,8 @@ This repository contains an in-depth analysis of the 2022 FIFA World Cup held in
 ## Authors
 - Aouame Mohamed Yassine
 - Chahed Ouazzani Adam
-- Bakiri Ayman Abdessalam
+- Bakiri Ayman
+- Derouich Abdessalam
 - Bousseta Amine
 - Lamyaghri Aymane
 
