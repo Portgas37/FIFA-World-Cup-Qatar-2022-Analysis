@@ -20,6 +20,3 @@ This repository contains an in-depth analysis of the 2022 FIFA World Cup held in
 
 ## Purpose
 This project was conducted as part of the course 'Project Management and Risk Analysis' to provide a detailed evaluation of a major global event from a project management perspective. The insights gained can serve as a blueprint for future mega-events, particularly in terms of sustainability and stakeholder engagement.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
